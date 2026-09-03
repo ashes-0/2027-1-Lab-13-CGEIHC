@@ -1,2 +1,21 @@
 # 2027-1-Lab-13-CGEIHC
-Repositorio para el control de versiones del laboratorio de computación gráfica del profesor Ing. José Roque Ramón Guadaraama
+## UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO
+### FACULTAD DE INGENIERÍA
+### DIVISIÓN DE INGENIERÍA ELÉCTRICA
+### INGENIERÍA EN COMPUTACIÓN
+### LABORATORIO DE COMPUTACIÓN GRÁFICA e INTERACCIÓN HUMANO COMPUTADORA
+
+#### NOMBRE COMPLETO: 
+Loza Regino Miguel Ángel
+
+#### Nº DE CUENTA: 
+319520011
+
+#### GRUPO DE LABORATORIO: 
+13
+
+#### GRUPO DE TEORÍA: 
+07
+
+#### SEMESTRE: 
+2027-1
