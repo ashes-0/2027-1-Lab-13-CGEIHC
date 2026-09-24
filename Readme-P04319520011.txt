@@ -1,0 +1,1 @@
+Se adjuntan los archivos solicitado y además se agregan los archivos Window.cpp y Window.h ya que estos fueron usados para poder añadir funciones de rotación
