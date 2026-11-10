@@ -1,0 +1,44 @@
+newmtl artemis_grupo1
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.2 0.2 0.2
+Ns 32
+d 1.0
+illum 2
+map_Kd artemis_grupo1_color.png
+
+newmtl artemis_tanque
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.2 0.2 0.2
+Ns 32
+d 1.0
+illum 2
+map_Kd artemis_tanque_color.png
+
+newmtl artemis_grupo2
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.2 0.2 0.2
+Ns 32
+d 1.0
+illum 2
+map_Kd artemis_grupo2_color.png
+
+newmtl artemis_blanco
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.2 0.2 0.2
+Ns 32
+d 1.0
+illum 2
+map_Kd artemis_blanco_color.png
+
+newmtl artemis_pintura
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.2 0.2 0.2
+Ns 32
+d 1.0
+illum 2
+
